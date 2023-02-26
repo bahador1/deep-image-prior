@@ -1,5 +1,4 @@
-**Warning!** The optimization may not converge on some GPUs. We've personally experienced issues on Tesla V100 and P40 GPUs. When running the code, make sure you get similar results to the paper first. Easiest to check using text inpainting notebook.  Try to set double precision mode or turn off cudnn. 
-
+- *The ultimate goal of this fork is to update this gorgeous paper to pytorch 2.0 and add some gpm twist idea on top of that !!!*
 # Deep image prior
 
 In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
